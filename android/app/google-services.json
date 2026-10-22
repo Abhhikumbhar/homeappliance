@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "699791379825",
+    "project_id": "justus-b131a",
+    "storage_bucket": "justus-b131a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699791379825:android:0b042146ae56e97f907ad0",
+        "android_client_info": {
+          "package_name": "com.example.homeappliance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoWUJND2uVRP9nDBlCN0CWTKsFSlMFHiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699791379825:android:08ff47b9c4882510907ad0",
+        "android_client_info": {
+          "package_name": "com.example.justus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoWUJND2uVRP9nDBlCN0CWTKsFSlMFHiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
